@@ -1,6 +1,7 @@
 # GraphSAGE 图分类项目
 
 基于PyTorch Geometric实现的GraphSAGE模型，用于图结构数据分类任务。
+可视化软件的官网https://gephi.org/
 
 ## 📦 项目结构
 
